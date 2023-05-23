@@ -1,6 +1,11 @@
 # Google_calendar_API_automation
 JS program which returns array of busy intervals in a given time period for  any shared Google calendar. Input: shared Google calendar ID; time period (starting and ending  moments). Output : busy intervals. in a table
 
+![USER INPUTS](https://github.com/harithushan/Google_calendar_API_automation/blob/main/images/UI.jpg)
+
+![RESULTS](https://github.com/harithushan/Google_calendar_API_automation/blob/main/images/RESUTS.jpg)
+
+
 Refer to the following links to enable Calendar API and get the credentials:
 [JavaScript quickstart](https://developers.google.com/calendar/quickstart/js)
 
